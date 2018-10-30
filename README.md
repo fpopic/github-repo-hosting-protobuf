@@ -1,1 +1,1 @@
-This repository is hosting protobuf file.
+This repository is hosting some examples of protobuf files.
