@@ -1,0 +1,6 @@
+syntax = "proto2";
+package com.github.fpopic;
+
+message Car {
+    optional string model = 1;
+}
